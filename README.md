@@ -46,13 +46,13 @@
 
 ## GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cocoCzl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoCzl&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cocoCzl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoCzl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cocoCzl&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=cocoCzl&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br />
 <br />
