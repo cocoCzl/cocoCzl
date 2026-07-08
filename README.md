@@ -44,22 +44,28 @@
 
 <br />
 
-## GitHub
+## Focus
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cocoCzl/cocoCzl/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cocoCzl/cocoCzl/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cocoCzl/cocoCzl/output/github-contribution-grid-snake.svg" />
-</picture>
+Building practical backend systems with clean APIs, reliable data access, and maintainable service boundaries.
+
+Learning and shipping across the JVM ecosystem, frontend tooling, containers, databases, and systems programming.
 
 <br />
+
+## Toolkit
+
+`Java` / `Spring Boot` / `Spring Cloud` / `Maven`
+
+`TypeScript` / `React` / `Vue.js` / `Node.js`
+
+`Docker` / `Linux` / `MySQL` / `PostgreSQL` / `Redis`
+
 <br />
 
-<img src="https://streak-stats.demolab.com?user=cocoCzl&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+## Contact
 
-<br />
-<br />
+Open to backend engineering, full-stack tooling, and infrastructure-focused collaboration.
 
-![Profile views](https://komarev.com/ghpvc/?username=cocoCzl&style=for-the-badge&color=2f81f7)
+[GitHub](https://github.com/cocoCzl)
 
 </div>
